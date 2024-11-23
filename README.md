@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Azure and CI/CD
 - 💞️ I’m looking to collaborate on anything open source in .NET
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm entirely self-taught and have never attended any lessons on writing code
